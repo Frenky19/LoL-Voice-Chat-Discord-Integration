@@ -1,4 +1,4 @@
-# Rift Talk — Desktop Application (RU)
+# Rift Talk — Desktop Application
 
 ## Открытый исходный код можно посмотреть тут: https://github.com/Frenky19/RiftTalk
 
