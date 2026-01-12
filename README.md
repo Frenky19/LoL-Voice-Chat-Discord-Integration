@@ -1,5 +1,7 @@
 # Rift Talk — Desktop Application (RU)
 
+## Открытый исходный код можно посмотреть тут: https://github.com/Frenky19/RiftTalk
+
 ## Установка
 1. Распакуйте все файлы в одну папку
 2. Запустите **Start.bat** или **RiftTalk.exe**
